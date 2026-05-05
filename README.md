@@ -1,6 +1,4 @@
-# pkmnmythos.github.io
-Mythos Chart
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
